@@ -1,0 +1,137 @@
+#header1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #ContactHeading {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    width: 523px;
+    border: 2px solid white;
+    border-radius: 23px;
+}
+
+#ContactPara {
+    color: white;
+    font-size: 23px;
+    margin: 23px;
+    margin-bottom: 29px;
+    margin-left: 50px;
+}
+
+#fname label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+}
+
+#fname input {
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 323px;
+    margin-left: 13px;
+}
+
+#sname label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+}
+
+#sname input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 323px;
+    margin-left: 15px;
+}
+
+#email label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+}
+
+#email input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 323px;
+    margin-left: 65px;
+}
+
+#date label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+}
+
+#date input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 323px;
+    margin-left: 72px;
+}
+
+#message label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+    
+}
+
+#message input {
+    margin-top: 20px;
+    color: black;
+    /* height: 123px; */
+    /* padding: 70px; */
+    margin-left: 33px;
+    width: 330px;
+    height: 150px;
+}
+
+#rs {
+    display: flex;
+}
+
+#reset label {
+    color: white;
+    margin-left: 123px;
+    font-size: 23px;
+}
+
+#reset input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 150px;
+}
+
+#submit label {
+    color: white;
+    margin-left: 60px;
+    font-size: 23px;
+}
+
+#submit input {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 6px;
+    text-align: center;
+    color: black;
+    width: 150px;
+}

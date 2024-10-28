@@ -1,0 +1,108 @@
+#header2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #ServiceHeading {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    width: 523px;
+    border: 2px solid white;
+    border-radius: 23px;
+}
+
+#ServicePara {
+    color: white;
+    font-size: 23px;
+    margin: 23px;
+    margin-bottom: 29px;
+}
+
+#ServicePara span{
+    color: orange;
+}
+
+#service1 {
+    display: flex;
+}
+
+#ser1 img {
+    margin-left: 70px;
+   height: 200px;
+   width: 323px
+}
+
+#ser1 p {
+    color: white;
+    margin-left: 170px;
+    font-size: 23px;
+}
+
+#ser2 img {
+    margin-left: 110px;
+    height: 200px;
+    width: 323px
+}
+
+#ser2 p {
+    color: white;
+    margin-left: 210px;
+    font-size: 23px;
+}
+
+#ser3 img {
+    margin-left: 123px;
+    margin-right: 70px;
+    height: 200px;
+    width: 323px
+}
+
+#ser3 p {
+    color: white;
+    margin-left: 220px;
+    font-size: 23px;
+}
+
+#service2 {
+    display: flex;
+}
+
+#ser4 img {
+    margin-left: 70px;
+   height: 200px;
+   width: 323px
+}
+
+#ser4 p {
+    color: white;
+    margin-left: 140px;
+    font-size: 23px;
+}
+
+#ser5 img {
+    margin-left: 110px;
+    height: 200px;
+    width: 323px
+}
+
+#ser5 p {
+    color: white;
+    margin-left: 210px;
+    font-size: 23px;
+}
+
+#ser6 img {
+    margin-left: 123px;
+    margin-right: 70px;
+    height: 200px;
+    width: 323px
+}
+
+#ser6 p {
+    color: white;
+    margin-left: 220px;
+    font-size: 23px;
+}
